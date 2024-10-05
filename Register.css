@@ -1,0 +1,38 @@
+body{
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 2000px;
+}
+form{
+    border: solid 2px blueviolet;
+    width: 600px;
+    background-color: blanchedalmond;
+    margin-left: 300px;
+}
+h1{
+    text-align: center;
+    color: green; 
+    font-size: 45px;
+}
+label{
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+input{
+    width: 10px;
+    height: 10px;
+    margin-bottom: 10px;
+}
+button{
+    height: 50px;
+    width: 110px;
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+}
+p{
+    color: purple;
+    font-size: 20px;
+}
